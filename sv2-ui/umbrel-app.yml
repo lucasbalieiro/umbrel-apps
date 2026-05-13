@@ -1,0 +1,20 @@
+manifestVersion: 1
+id: sv2-ui
+category: finance
+name: Stratum V2 UI
+version: "0.1.0"
+tagline: Stratum V2 Mining UI
+description: >-
+  User interface for Stratum V2 mining operations. Manage and monitor
+  your SV2 mining setup with an intuitive dashboard.
+port: 8080
+gallery: []
+releaseNotes: "TBD"
+dependencies:
+  - bitcoin
+developer: "The Stratum V2 Developers"
+website: "https://stratumprotocol.org/"
+repo: "https://github.com/stratum-mining/"
+support: "https://discord.gg/fsEW23wFYs"
+submitter: "The Stratum V2 Developers"
+submission: "TBD"
